@@ -1,0 +1,25 @@
+{
+  "name": "afterwhile",
+  "version": "0.0.0",
+  "description": "create and manage schedules or things that happen after a while",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ambirex/afterwhile.git"
+  },
+  "keywords": [
+    "schedule",
+    "occurrences",
+    "recur",
+    "cron"
+  ],
+  "author": "Brent Doll <ambirex@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ambirex/afterwhile/issues"
+  },
+  "homepage": "https://github.com/ambirex/afterwhile#readme"
+}
